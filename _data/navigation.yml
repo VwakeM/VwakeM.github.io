@@ -3,10 +3,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-- title: "Publications"
+  - title: "Publications"
     url: /publications/
     
- - title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio/
     
   - title: "CV"
