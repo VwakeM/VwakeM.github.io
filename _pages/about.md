@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my GitHub page(s?) :wave:.
+Welcome to my GitHub page(s?) :wave: .
